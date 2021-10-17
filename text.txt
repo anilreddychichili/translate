@@ -1,0 +1,6 @@
+this is a heading
+this is a heading
+i am practisijnh typing
+translator = Translator(from_lang='english',to_lang='telugu')
+translation = translator.translate(Text)
+print('translated text:  ', translation)
